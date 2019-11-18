@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+class Images {
+  static const modelImage =
+      const AssetImage('assets/images/model.jpg');
+  static const model1Image =
+      const AssetImage('assets/images/model1.jpg');
+  static const model2Image =
+      const AssetImage('assets/images/model2.jpg');
+  static const model3Image =
+      const AssetImage('assets/images/model3.jpg');
+  static const model4Image =
+      const AssetImage('assets/images/model4.jpg');
+  
+  static const model5Image =
+      const AssetImage('assets/images/model5.jpg');   
+}
+
+class ImageAssetPath {
+  static const model1Image = 'assets/images/model1.jpg';
+  static const model2Image ='assets/images/model2.jpg';
+  static const model3Image = 'assets/images/model3.jpg';
+  static const model4Image = 'assets/images/model4.jpg';
+  static const model5Image = 'assets/images/model5.jpg';
+}
